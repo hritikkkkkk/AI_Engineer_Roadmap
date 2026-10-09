@@ -84,7 +84,7 @@ Suggestions and improvements are welcome. Feel free to fork the repository, open
 
 ---
 
-## 📄 License
+## 📄 License//////////////////
 
 This project is licensed under the MIT License.
 
