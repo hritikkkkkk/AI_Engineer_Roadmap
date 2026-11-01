@@ -255,3 +255,7 @@
 - ✅ Focus on practical skills rather than collecting certificates.
 
 > **Remember:** Certifications can help you get noticed, but strong projects and a well-documented portfolio are what usually make the biggest difference in AI engineering interviews.
+>  ✅ Complete the free certifications before investing in paid ones.
+- ✅ Apply each certification by building at least one real-world project.
+- ✅ Share your certificates and projects on GitHub and LinkedIn.
+- ✅ Focus on practical skills rather than collecting certificates.
