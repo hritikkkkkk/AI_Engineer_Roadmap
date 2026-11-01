@@ -189,6 +189,10 @@
 - Deep Learning
 - PyTorch
 - TensorFlow
+-  ✅ Complete the free certifications before investing in paid ones.
+- ✅ Apply each certification by building at least one real-world project.
+- ✅ Share your certificates and projects on GitHub and LinkedIn.
+- ✅ Focus on practical skills rather than collecting certificates.
 
 🔗 https://www.coursera.org/professional-certificates/ai-engineer
 
