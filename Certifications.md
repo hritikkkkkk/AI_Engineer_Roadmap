@@ -241,7 +241,10 @@
 | 13 | IBM AI Engineering |
 | 14 | Azure AI Engineer |
 | 15 | Google Cloud ML Engineer |
-
+ | Andrew Ng Deep Learning |
+| 13 | IBM AI Engineering |
+| 14 | Azure AI Engineer |
+| 15 | Google Cloud ML Engineer |
 ---
 
 # 💡 Tips
